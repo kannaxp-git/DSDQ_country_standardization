@@ -1,0 +1,619 @@
+countryname,Cnt
+"""United States""",7322567
+"""United Kingdom""",2997782
+"""France""",1162923
+"""Germany""",1064062
+"""India""",1009520
+"""Belgium""",719841
+"""Brazil""",613377
+"""Australia""",422338
+"""Canada""",412482
+"""Spain""",355790
+"""China""",352625
+"""Norway""",350527
+"""Italy""",349567
+"""Netherlands""",337948
+"""South Africa""",301729
+"""Japan""",197982
+"""Sweden""",113696
+"""Switzerland""",98489
+"""Turkey""",91882
+"""Mexico""",90216
+"""Denmark""",64987
+"""Ireland""",64817
+"""Poland""",64542
+"""United Arab Emirates""",59360
+"""Singapore""",58937
+"""Chile""",55909
+"""Hong Kong""",52437
+"""Malaysia""",49240
+"""Argentina""",49048
+"""South Korea""",48155
+"""Luxembourg""",46385
+"""Russia""",45752
+"""Portugal""",45191
+"""Indonesia""",44686
+"""Colombia""",43999
+"""Israel""",43206
+"""New Zealand""",41618
+"""Finland""",40094
+"""Austria""",39062
+"""Pakistan""",30168
+"""Czech Republic""",29635
+"""Greece""",29374
+"""Peru""",27481
+"""Romania""",26691
+"""Ukraine""",24695
+"""Nigeria""",24453
+"""Philippines""",24231
+"""Thailand""",23590
+"""Egypt""",22623
+"""Hungary""",21986
+"""Iran""",20418
+"""Saudi Arabia""",19678
+"""Vietnam""",18866
+"""Bangladesh""",18830
+"""Taiwan""",17965
+"""Bulgaria""",14093
+"""Kenya""",13693
+"""Morocco""",12124
+"""Serbia""",11182
+"""Croatia""",10025
+"""Cyprus""",9581
+"""Lithuania""",9558
+"""Slovakia""",9208
+"""Estonia""",8821
+"""Ecuador""",8715
+"""Sri Lanka""",8684
+"""Venezuela""",8038
+"""Slovenia""",7333
+"""Lebanon""",7170
+"""Cayman Islands""",6906
+"""Ghana""",6785
+"""Jordan""",6765
+"""Latvia""",6345
+"""Uruguay""",6170
+"""Costa Rica""",6110
+"""Tunisia""",5947
+"""British Virgin Islands""",5899
+"""Panama""",5824
+"""England""",5528
+"""Qatar""",5307
+"""Nepal""",5088
+"""Mauritius""",4737
+"""Kuwait""",4569
+"""Bermuda""",4377
+"""Guatemala""",4370
+"""Dominican Republic""",4215
+"""Malta""",4201
+"""Georgia""",4138
+"""Uganda""",3757
+"""Azerbaijan""",3719
+"""Algeria""",3585
+"""Puerto Rico""",3514
+"""Tanzania""",3418
+"""Bahrain""",3392
+"""Cambodia""",3215
+"""Zimbabwe""",3098
+"""Ivory Coast""",3093
+"""Cameroon""",3030
+"""Myanmar""",2939
+"""Kazakhstan""",2934
+"""Oman""",2866
+"""Armenia""",2780
+"""Iceland""",2701
+"""Albania""",2649
+"""Republic of North Macedonia""",2634
+"""Senegal""",2549
+"""Bolivia""",2541
+"""Bosnia and Herzegovina""",2408
+"""Belarus""",2355
+"""El Salvador""",2112
+"""Iraq""",2107
+"""Jersey""",2083
+"""Paraguay""",2074
+"""Comoros""",2065
+"""Zambia""",1932
+"""Angola""",1890
+"""Jamaica""",1732
+"""Mozambique""",1621
+"""Trinidad and Tobago""",1579
+"""Honduras""",1544
+"""Barbados""",1539
+"""Liechtenstein""",1534
+"""Namibia""",1505
+"""Ethiopia""",1497
+"""Bahamas""",1445
+"""Mongolia""",1426
+"""Nicaragua""",1395
+"""Guernsey""",1339
+"""Monaco""",1329
+"""Isle of Man""",1326
+"""Botswana""",1286
+"""Gibraltar""",1210
+"""Montenegro""",1158
+"""Madagascar""",1131
+"""Rwanda""",1066
+"""Moldova""",1057
+"""Réunion""",1050
+"""Syria""",1047
+"""Maldives""",1030
+"""Sudan""",1024
+"""Afghanistan""",991
+"""Uzbekistan""",901
+"""Papua New Guinea""",850
+"""Marshall Islands""",830
+"""Libya""",818
+"""Macau""",790
+"""Benin""",698
+"""Guam""",661
+"""Haiti""",656
+"""Belize""",644
+"""Burkina Faso""",618
+"""Malawi""",611
+"""Andorra""",604
+"""Liberia""",593
+"""Seychelles""",583
+"""Guadeloupe""",583
+"""Gabon""",560
+"""Fiji""",544
+"""Mali""",501
+"""Guinea""",497
+"""Korea (South)""",494
+"""Scotland""",484
+"""Cuba""",479
+"""Suriname""",478
+"""Guinea-Bissau""",475
+"""Yemen""",468
+"""Martinique""",465
+"""New Caledonia""",465
+"""Somalia""",460
+"""Kyrgyzstan""",454
+"""Aruba""",444
+"""Brunei""",431
+"""Sierra Leone""",415
+"""Togo""",409
+"""San Marino""",362
+"""Hong Kong, SAR China""",319
+"""Swaziland""",307
+"""Saint Lucia""",300
+"""U.S.""",291
+"""Laos""",288
+"""Guyana""",281
+"""French Polynesia""",265
+"""Curaçao""",233
+"""Wales""",227
+"""Faroe Islands""",227
+"""Gambia""",221
+"""Bhutan""",215
+"""Samoa""",211
+"""Niger""",206
+"""Lesotho""",202
+"""Greenland""",200
+"""Vanuatu""",198
+"""Mauritania""",192
+"""Cape Verde""",191
+"""Tajikistan""",176
+"""French Guiana""",170
+"""Northern Ireland""",162
+"""South Sudan""",154
+"""Burundi""",147
+"""USA""",140
+"""Taiwan, Republic of China""",135
+"""Turks and Caicos Islands""",135
+"""Saint Kitts and Nevis""",133
+"""Turkmenistan""",126
+"""Saint Vincent and the Grenadines""",123
+"""AN""",119
+"""UK""",117
+"""Equatorial Guinea""",116
+"""Russian Federation""",115
+"""Chad""",111
+"""Antigua and Barbuda""",111
+"""Grenada""",95
+"""Djibouti""",95
+"""Anguilla""",89
+"""Dominica""",89
+"""Timor-Leste""",81
+"""North Korea""",75
+"""Kosovo""",75
+"""American Samoa""",72
+"""Northern Mariana Islands""",70
+"""Democratic Republic of the Congo""",70
+"""Solomon Islands""",69
+"""Central African Republic""",64
+"""São Tomé and Príncipe""",60
+"""Cook Islands""",55
+"""US""",51
+"""Mayotte""",50
+"""Tonga""",41
+"""Bastarnae""",41
+"""Coastline of Somalia""",35
+"""Eritrea""",32
+"""VA""",32
+"""IND""",29
+"""Soviet Union""",26
+"""Northern Cyprus""",25
+"""Federated States of Micronesia""",24
+"""East Germany""",24
+"""British Raj""",23
+"""Montserrat""",22
+"""State of Palestine""",21
+"""Falkland Islands""",21
+"""Czechoslovakia""",20
+"""Azerbaijan Republic""",19
+"""Somaliland""",18
+"""Palau""",17
+"""Kiribati""",17
+"""Iraqi Kurdistan""",16
+"""Russian Empire""",15
+"""Congo""",15
+"""London""",14
+"""Burma""",14
+"""Tuvalu""",13
+"""Great Britain""",13
+"""The Netherlands""",13
+"""Dutch East Indies""",12
+"""Korea""",11
+"""Transnistria""",10
+"""Ottoman Empire""",9
+"""València""",9
+"""Socialist Federal Republic of Yugoslavia""",8
+"""South Georgia and the South Sandwich Islands""",7
+"""Svalbard and Jan Mayen""",7
+"""Norfolk Island""",7
+"""Venezuela (Bolivarian Republic)""",7
+"""Russian Soviet Federative Socialist Republic""",7
+"""UAE""",6
+"""THA""",6
+"""Vatican City""",6
+"""Republic of China""",6
+"""Aland Islands""",5
+"""Palestine""",5
+"""NZ""",5
+"""Kingdom of Egypt""",5
+"""West Germany""",5
+"""Nauru""",5
+"""Korea under Japanese rule""",4
+"""Yugoslavia""",4
+"""Weimar Republic""",4
+"""Republic of Artsakh""",4
+"""Wallis and Futuna""",4
+"""New York""",4
+"""Bouvet Island""",4
+"""Grand Duchy of Finland""",4
+"""Manchukuo""",4
+"""Macao, SAR China""",4
+"""Kingdom of Italy""",4
+"""Republic of Korea""",4
+"""Abkhazia""",4
+"""The Gambia""",3
+"""Western Sahara""",3
+"""British Hong Kong""",3
+"""Kingdom of Yugoslavia""",3
+"""Côte d'Ivoire""",3
+"""Presidencies and provinces of British India""",3
+"""Kingdom of Romania""",3
+"""HKG""",3
+"""ITA""",3
+"""Valencia""",3
+"""Gujarat""",3
+"""RSFSR""",3
+"""Channel Islands""",3
+"""British Empire""",3
+"""German Empire""",3
+"""Macao""",3
+"""North Macedonia""",3
+"""United States of America""",3
+"""Southern Rhodesia""",3
+"""USSR""",3
+"""Empire of Japan""",3
+"""Macedonia""",3
+"""British Indian Ocean Territory""",3
+"""San Francisco""",3
+"""Kingdom of Bohemia""",3
+"""Confederate States of America""",2
+"""Sicily""",2
+"""SXM""",2
+"""Portuguese Mozambique""",2
+"""Habsburg Monarchy""",2
+"""Basque Country""",2
+"""British Ceylon""",2
+"""Republic of Macedonia""",2
+"""Austria-Hungary""",2
+"""International""",2
+"""Chicago""",2
+"""Worldwide""",2
+"""AUS""",2
+"""Upper Canada""",2
+"""Åland Islands""",2
+"""Ukrainian SSR""",2
+"""Democratic Republic of Afghanistan""",2
+"""Nagorno-Karabakh""",2
+"""Montevideo""",2
+"""CAM""",2
+"""Kingdom of England""",2
+"""East Timor""",2
+"""Polish–Lithuanian Commonwealth""",2
+"""People's Republic of China""",2
+"""Navarre""",2
+"""Republic of Serbia""",2
+"""Czechoslovak Socialist Republic""",2
+"""French Republic""",2
+"""Kingdom of Portugal""",2
+"""Zaire""",2
+"""West Bengal""",2
+"""United Kingdom of Great Britain and Ireland""",2
+"""VAN""",2
+"""ENG""",2
+"""People's Socialist Republic of Albania""",2
+"""Österreich""",2
+"""Belgian Congo""",2
+"""Bonaire""",2
+"""Kurdistan Regional Government-Iraq""",2
+"""Hauts-de-France""",2
+"""Palestinian territories""",2
+"""Pitcairn Islands""",2
+"""Antarctica""",2
+"""Beirut, Lebanon""",2
+"""Korean Empire""",2
+"""Mumbai""",2
+"""South Yemen""",2
+"""Republic of South Africa""",2
+"""Puntland""",2
+"""Western Australia""",2
+"""the Netherlands""",2
+"""ROC""",2
+"""Kurdistan""",2
+"""South Australia""",2
+"""England England""",2
+"""U.S.A.""",2
+"""Baden""",1
+"""Global""",1
+"""Porirua""",1
+"""JOR""",1
+"""Czech rep""",1
+"""Djibouti City""",1
+"""GBR""",1
+"""Adelaide""",1
+"""Bangkok""",1
+"""Haifa""",1
+"""Warsaw""",1
+"""IndiaIndia""",1
+"""Pol""",1
+"""Brasil""",1
+"""Miami""",1
+"""Svalbard""",1
+"""Central America""",1
+"""Economy of Germany""",1
+"""Saint Vincent""",1
+"""Tobago""",1
+"""México""",1
+"""South Ossetia""",1
+"""Ohio""",1
+"""Trinidad""",1
+"""West Beirut""",1
+"""Spanish East Indies""",1
+"""Lombardy""",1
+"""Mainly Czech Republic""",1
+"""Saba""",1
+"""New Delhi""",1
+"""PHL""",1
+"""Kingdom of Croatia-Slavonia""",1
+"""Ballinasloe""",1
+"""First Czechoslovak Republic""",1
+"""Wales UK""",1
+"""Fance""",1
+"""Independent State of Croatia""",1
+"""SGP""",1
+"""IE""",1
+"""California""",1
+"""San Diego""",1
+"""Flint""",1
+"""BER""",1
+"""Paris""",1
+"""United-States""",1
+"""Socialist Republic of Bosnia and Herzegovina""",1
+"""Dubai""",1
+"""Catalonia""",1
+"""Wellingborough""",1
+"""TON""",1
+"""Spanish Netherlands""",1
+"""Second Polish Republic""",1
+"""Italian Social Republic""",1
+"""Ghana Ghana""",1
+"""Milwaukee""",1
+"""Southfield""",1
+"""St. Louis""",1
+"""Mexico City""",1
+"""Shenzhen""",1
+"""Florence""",1
+"""Canda""",1
+"""Second Philippine Republic""",1
+"""NZL""",1
+"""Tamil Nadu""",1
+"""Sultanate of Oman""",1
+"""Buenos Aires""",1
+"""Los Angeles County""",1
+"""Hesse""",1
+"""Mysore""",1
+"""Melbourne""",1
+"""Principality of Sealand""",1
+"""Kingdom of Sardinia""",1
+"""Illinois""",1
+"""Byzantine Empire""",1
+"""United StatesS""",1
+"""West-Germany""",1
+"""Beverly Hills""",1
+"""Maritime Canada""",1
+"""French First Republic""",1
+"""Sharq""",1
+"""Austrian Empire""",1
+"""Saint Helena""",1
+"""Galicia""",1
+"""Phoenix""",1
+"""Republic of Venice""",1
+"""P.R""",1
+"""Serbia and Montenegro""",1
+"""Hungarian People's Republic""",1
+"""Valencia, Spain""",1
+"""Tahiti""",1
+"""Kabul""",1
+"""Sint Maarten""",1
+"""RUS""",1
+"""Ulcinj""",1
+"""Addis Ababa""",1
+"""Prussia""",1
+"""Victoria""",1
+"""NSW""",1
+"""Eidgenossenschaft""",1
+"""Socialist Republic of Serbia""",1
+"""Socialist Republic of Slovenia""",1
+"""Chuvashia""",1
+"""Sunnyvale""",1
+"""Congo Free State""",1
+"""Spanish protectorate in Morocco""",1
+"""Tokelau""",1
+"""Portuguese Timor""",1
+"""Johor""",1
+"""Russian SFSR""",1
+"""JPN""",1
+"""The Channel Islands""",1
+"""U.K.""",1
+"""M5S 3E6""",1
+"""Ribeira Palace""",1
+"""Karachi""",1
+"""MW""",1
+"""Deutschland""",1
+"""SWE""",1
+"""Zealand""",1
+"""New Spain""",1
+"""Guangzhou""",1
+"""Majuro""",1
+"""Oxfordshire""",1
+"""Principality of Serbia""",1
+"""Balochistan""",1
+"""Estonian SSR""",1
+"""American""",1
+"""Hyderabad""",1
+"""Washington""",1
+"""Cheltenham""",1
+"""Peterborough""",1
+"""M5S 1V6""",1
+"""Württemberg""",1
+"""Cocos (Keeling) Islands""",1
+"""FRA""",1
+"""Francoist Spain""",1
+"""Telangana""",1
+"""Saint Barthélemy""",1
+"""Bali""",1
+"""Australia + New Zealand""",1
+"""Grenchen""",1
+"""Dutch Republic""",1
+"""Republika Srpska""",1
+"""CUB""",1
+"""Kingdom of Naples""",1
+"""Flag""",1
+"""Holy Roman Empire""",1
+"""Buryatia""",1
+"""RW""",1
+"""Jakarta""",1
+"""Helsingborg""",1
+"""LCA""",1
+"""Stockholm""",1
+"""United Kinddom""",1
+"""Nazi Germany""",1
+"""Kingdom of Hungary""",1
+"""United States Virgin Islands""",1
+"""Irish Free State""",1
+"""New Rochelle""",1
+"""Antigua""",1
+"""Amsterdam""",1
+"""People's Republic of Angola""",1
+"""West Pakistan""",1
+"""Italia""",1
+"""Kolkata""",1
+"""KOSOVO""",1
+"""Copenhagen""",1
+"""Massachusetts""",1
+"""San Juan""",1
+"""Hong Kong SAR""",1
+"""Gander""",1
+"""Industry""",1
+"""Polish People's Republic""",1
+"""Federation of Malaya""",1
+"""Venda""",1
+"""Sint Eustatius""",1
+"""Dublin""",1
+"""European Union""",1
+"""Chaoyang District""",1
+"""India 500007""",1
+"""NOR""",1
+"""Berlin""",1
+"""Tokyo""",1
+"""North Gyeongsang Province""",1
+"""NGA""",1
+"""Bengaluru""",1
+"""BAN""",1
+"""W1J 0DX""",1
+"""Sydney""",1
+"""Andalusia""",1
+"""Kingdom of Prussia""",1
+"""U.A.E""",1
+"""CHN""",1
+"""LUX""",1
+"""G1J 5L5""",1
+"""Hammond""",1
+"""Nuevo León""",1
+"""Madeira""",1
+"""S7K 3R5""",1
+"""Delhi""",1
+"""West Bank""",1
+"""U. S.""",1
+"""East Pakistan""",1
+"""Kingdom of the Netherlands""",1
+"""Republic of the Congo""",1
+"""Netherlands Antilles""",1
+"""Alderney""",1
+"""🏴󠁧󠁢󠁥󠁮󠁧󠁿""",1
+"""Gauteng""",1
+"""Captaincy General of Chile""",1
+"""Scania""",1
+"""Lagos""",1
+"""Medellín""",1
+"""Vennezuela""",1
+"""in Poland""",1
+"""Australia Australia""",1
+"""COL""",1
+"""East Sussex""",1
+"""Europe""",1
+"""North East England""",1
+"""Auckland""",1
+"""Kelowna""",1
+"""Ukrainian Soviet Socialist Republic""",1
+"""Hamburg""",1
+"""Lancashire""",1
+"""DEN""",1
+"""Maharashtra""",1
+"""St Vincent and the Grenadines""",1
+"""Buganda""",1
+"""Collectivity of Saint Martin""",1
+"""Pennsylvania""",1
+"""Tuscany""",1
+"""Noida""",1
+"""Provisional Government of the Republic of China""",1
+"""Zürich""",1
+"""JORDAN""",1
+"""Tehran""",1
+"""Christmas Island""",1
+"""Surrey""",1
+"""Selangor""",1
+"""Basseterre""",1
+"""States of South Sudan""",1
+"""Babylon""",1
+"""Birmingham""",1
+"""Argentines""",1
+"""Protectorate of Bohemia and Moravia""",1
+"""Saint Kitts""",1
+"""Bologna""",1
+"""Union of South Africa""",1
